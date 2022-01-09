@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-perfectogo/perfectogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perfectogo&hide=TeX&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10)
